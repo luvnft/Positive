@@ -1,56 +1,56 @@
 [
     {
         "id": 1,
-        "name1": "Search engine",
-        "name2": "optimization",
+        "name1": "LINKTREE",
+        "name2": "BLKLUV INTERNET",
         "background": "h-[310px] p-12 bg-zinc-100 rounded-[45px] shadow-card border border-black justify-between items-center flex text-black",
         "arrow": "./services/ag.svg",
-        "link": "./",
+        "link": "https://linktr.ee/blkluvorg",
         "image": "./services/01.svg"
     },
     {
         "id": 2,
-        "name1": "Pay-per-click",
-        "name2": "advertising",
+        "name1": "L$VE",
+        "name2": "MINT/SELL/REPEAT",
         "background": "h-[310px] p-12 bg-lime rounded-[45px] shadow-card border border-black justify-between items-center flex text-black",
         "arrow": "./services/ag.svg",
-        "link": "./",
+        "link": "https://unisat.io/brc20/L$VE",
         "image": "./services/02.svg"
     },
     {
         "id": 3,
-        "name1": "Social Media",
-        "name2": "Marketing",
+        "name1": "HAI$",
+        "name2": "MINT/SELL/REPEAT",
         "background": "h-[310px] p-12 bg-black rounded-[45px] shadow-card border border-black justify-between items-center flex text-white",
         "arrow": "./services/aw.svg",
-        "link": "./",
+        "link": "https://unisat.io/brc20/HAI$",
         "image": "./services/03.svg"
     },
     {
         "id": 4,
-        "name1": "Email",
-        "name2": "Marketing",
+        "name1": "$RNT",
+        "name2": "MINT/SELL/REPEAT",
         "background": "h-[310px] p-12 bg-zinc-100 rounded-[45px] shadow-card border border-black justify-between items-center flex text-black",
         "arrow": "./services/ag.svg",
-        "link": "./",
+        "link": "https://unisat.io/brc20/$RNT",
         "image": "./services/04.svg"
     },
     {
         "id": 5,
-        "name1": "Content",
-        "name2": "Creation",
+        "name1": "HAHZ",
+        "name2": "BITCOIN REDDIT",
         "background": "h-[310px] p-12 bg-lime rounded-[45px] shadow-card border border-black justify-between items-center flex text-black",
         "arrow": "./services/ag.svg",
-        "link": "./",
+        "link": "https://hahz.blkluv.org",
         "image": "./services/05.svg"
     },
     {
         "id": 6,
-        "name1": "Analytics and",
-        "name2": "Tracking",
+        "name1": "BTV",
+        "name2": "BITCOIN YOUTUBE",
         "background": "h-[310px] p-12 bg-black rounded-[45px] shadow-card border border-black justify-between items-center flex text-white",
         "arrow": "./services/aw.svg",
-        "link": "./",
+        "link": "https://btv.blkluv.org",
         "image": "./services/06.svg"
     }
 ]
