@@ -1,11 +1,11 @@
 [
     {
         "id": 1,
-        "name1": "LOVETREE",
-        "name2": "BLKLUV LINKTREE",
+        "name1": "HAHZ",
+        "name2": "BITCOIN REDDIT",
         "background": "h-[310px] p-12 bg-zinc-100 rounded-[45px] shadow-card border border-black justify-between items-center flex text-black",
         "arrow": "./services/ag.svg",
-        "link": "https://linktr.ee/blkluvorg",
+        "link": "https://hahz.blkluvorg",
         "image": "./services/01.svg"
     },
     {
@@ -37,11 +37,11 @@
     },
     {
         "id": 5,
-        "name1": "HAHZ",
-        "name2": "BITCOIN REDDIT",
+        "name1": "CANDY",
+        "name2": "AI ASSISTANT",
         "background": "h-[310px] p-12 bg-lime rounded-[45px] shadow-card border border-black justify-between items-center flex text-black",
         "arrow": "./services/ag.svg",
-        "link": "https://hahz.blkluv.org",
+        "link": "https://candy.blkluv.org",
         "image": "./services/05.svg"
     },
     {
