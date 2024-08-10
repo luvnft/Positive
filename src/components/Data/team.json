@@ -2,53 +2,53 @@
     "team":
     [
         {
-            "title": "CEO and Founder",
-            "name": "John Smith",
+            "title": "NFTV Discord",
+            "name": "@britseo",
             "description": "10+ years of experience in digital marketing. Expertise in SEO, PPC, and content strategy",
             "profile": "/team/c1.png",
-            "link": "/"
+            "link": "https://discord.gg/xTyByNRemx"
         },
         {
-            "title": "Director of Operations",
-            "name": "Jane Doe",
+            "title": "Arvrtise Discord",
+            "name": "@jhonnytech",
             "description": "7+ years of experience in project management and team leadership. Strong organizational and communication skills",
-            "profile": "/team/c2.png",
-            "link": "/"
+            "profile": "/team/c2.JPEG",
+            "link": "https://discord.gg/DQrPzGkejT"
         },
         {
-            "title": "Senior SEO Specialist",
-            "name": "Michael Brown",
+            "title": "HealXYZ Discord",
+            "name": "@pnbrip",
             "description": "5+ years of experience in SEO and content creation. Proficient in keyword research and on-page optimization",
-            "profile": "/team/c3.png",
-            "link": "/"
+            "profile": "/team/c3.JPEG",
+            "link": "https://discord.gg/EunEt7Q68h"
         }
 
     ],
     "process":
     [
         {
-            "label": "Donate",
-            "content": "BLKLUG [ORG] is a H2H (Heart 2 Heart) BLK LUV donation economy that allows fans, customers, of business to donate to each other earning 100% in Bitcoin Love Cash Money."
+            "label": "ATL5D",
+            "content": "ATL is the Mecca for the BLKLUV owned entertainment industry and the first Bitcoin city tokenized in blockchain history. Recommended for Atlanta residents and entertainers."
         },
         {
-            "label": "Mint",
-            "content": "Click the Linktr.ee/blkluvorg mint link to mint L$VE $RNT or HAI$ to your Phantom.app mobile wallet."
+            "label": "Arvrtise",
+            "content": "ARVRTISE is the new Bitcoin Amazon for selling services and products locally for Bitcoin Sats (Smallest form of Bitcoin) with $0 middleman fees. Arvrtise Sat thing. Best for marketing services. "
         },
         {
-            "label": "Sell",
-            "content": "Sell your Love Cash Money in the BLKLUV [ORG] Linktree shop, in any BLKLUV Discord network or to anyone that you know as a payment method for you educating them on how the purpose economy works for them. "
+            "label": "HEALXYZ",
+            "content": "HealXYZ is the spiritual healthcare Discord network for finding your spiritual tribe, certified HealR's or a conscious bae."
         },
         {
-            "label": "Live",
-            "content": "Promote your products or services on LIVE.BLKLUV.org through a scheduled and promoted episode show, allowing the host to receive live donations."
+            "label": "CRE CLUB",
+            "content": "CRE CLUB is the new Bitcoin-based real estate industry token, leading the way in tokenizing real-world assets (RWA). It is spearheaded by the Wizard of Hahz, the pioneer of tokenizing commercial real estate (CRE) as an NFT since 2021."
         },
         {
-            "label": "TV",
-            "content": "BLKLUV TV is the new Bitcoin-based platform similar to YouTube, showcasing top Love Money creator videos for 24 hours. It features the creators' Love bank account addresses, enabling viewers from around the world to make Love Money donations."
+            "label": "LUV NFT",
+            "content": "LUV NFT is tokenizing the world, created a branded Discord channel to sell your tokenized services or products with no middleman fees."
         },
         {
-            "label": "History",
-            "content": "BLKLUV [ORG] is making history by minting blockchain content sold by creators who promote Love Money for free. This serves as a go-to-market strategy for onboarding the masses to the purpose economy, providing a solution to inflation."
+            "label": "REEL COMEDY",
+            "content": "Got jokes? Sell them as digital trading cards for access to your branded Discord channel. Use the Reel Comedy TikTok effect to be discovered."
         }
     ]
 }
