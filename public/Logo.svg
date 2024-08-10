@@ -5,6 +5,6 @@
         <path d="M17.999,5.535L35.6,0.349L30.464,18L35.6,35.601L17.999,30.465L0.348,35.601L5.533,18L0.348,0.349L17.999,5.535Z" style="fill-rule:nonzero;"/>
     </g>
     <g transform="matrix(0.64694,0,0,0.64694,5.97226,8.04291)">
-        <text x="51.09px" y="25.771px" style="font-family:'ArchivoBlack-Regular', 'Archivo Black', sans-serif;font-size:36px;">BLKL<tspan x="156.172px 186.16px " y="25.771px 25.771px ">UV</tspan>[OR<tspan x="285.512px 315.5px " y="25.771px 25.771px ">G]</tspan></text>
+        <text x="51.09px" y="25.771px" style="font-family:'ArchivoBlack-Regular', 'Archivo Black', sans-serif;font-size:36px;">BLK<tspan x="156.172px 186.16px " y="25.771px 25.771px ">LUV</tspan>[ORG<tspan x="285.512px 315.5px " y="25.771px 25.771px ">]</tspan></text>
     </g>
 </svg>
