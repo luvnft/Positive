@@ -1,21 +1,21 @@
 [
   {
-    "id":1,
+    "id": 1,
     "type": "Tutorial",
-    "title": "How to quickly deploy a static website",
+    "title": "How to set up a BLKLUV ATM account in less than a minute",
     "publish_date": "14 days ago",
-    "brief": "Static websites are now used to bootstrap lots of websites and are becoming the basis for a variety of tools that even influence both web designers and developers influence both web designers and developers.",
-    "description": "Static websites are now used to bootstrap lots of websites and are becoming the basis for a variety of tools that even influence both web designers and developers influence both web designers and developers. Static websites are now used to bootstrap lots of websites and are becoming the basis for a variety of tools that even influence both web designers and developers influence both web designers and developers. Static websites are now used to bootstrap lots of websites and are becoming the basis for a variety of tools that even influence both web designers and developers influence both web designers and developers. Static websites are now used to bootstrap lots of websites and are becoming the basis for a variety of tools that even influence both web designers and developers influence both web designers and developers. Static websites are now used to bootstrap lots of websites and are becoming the basis for a variety of tools that even influence both web designers and developers influence both web designers and developers.",
-    "author": "Jese Leos",
+    "brief": "BLKLUV ATM is the evolution of financial payment apps like Pay and CashApp, but it uses blockchain technology to avoid traditional banking fees and wait times.",
+    "description": "BLKLUV ATM is like having a secure digital wallet for your digital money. Think of it as Cash App or PayPal, but for Bitcoin and other digital currencies. It lets you send, receive, and store your crypto without relying on a bank or third party.  \n\nThe biggest difference is that BLKLUV ATM is built on a decentralized system with an explorer to search any transactions. This means you have more control over your money, and transactions are faster and cheaper than traditional services. ",
+    "author": "Joe Besley",
     "authorImage": "https://flowbite.s3.amazonaws.com/blocks/marketing-ui/avatars/jese-leos.png"
   },
   {
     "id":2,
     "type": "Article",
-    "title": "Our first project with Astro",
+    "title": "Why should I launch a DIY BLKLUV Funraise",
     "publish_date": "14 days ago",
-    "brief": "Static websites are now used to bootstrap lots of websites and are becoming the basis for a variety of tools that even influence both web designers and developers influence both web designers and developers.",
-    "description": "Static websites are now used to bootstrap lots of websites and are becoming the basis for a variety of tools that even influence both web designers and developers influence both web designers and developers. Static websites are now used to bootstrap lots of websites and are becoming the basis for a variety of tools that even influence both web designers and developers influence both web designers and developers. Static websites are now used to bootstrap lots of websites and are becoming the basis for a variety of tools that even influence both web designers and developers influence both web designers and developers. Static websites are now used to bootstrap lots of websites and are becoming the basis for a variety of tools that even influence both web designers and developers influence both web designers and developers. Static websites are now used to bootstrap lots of websites and are becoming the basis for a variety of tools that even influence both web designers and developers influence both web designers and developers.",
+    "brief": "BLKLUV.org is the #1 most transparent nonprofit in the world with every donation having a public ledger to allow anyone verify any donation.",
+    "description": "BLKLUV.org has been manifesting spiritual currency since 2020. The founders, Hahz and Candy, experienced significant losses when two six-figure companies and a startup went under during the COVID-19 lockdown, similar to many other small, unfunded American businesses. Determined to find a solution, Hahz embarked on a journey to learn blockchain technology at the age of 42. His mission was to address what he saw as a lack of innovation and effective use of advanced technology and wealth in the crypto space. Fast forward four years: Hahz has lectured, tokenized the first CRE property as a digital asset, led million-dollar blockchain projects, and advised on the next wave of stealth projects. He has also dedicated time as a fractional Chief Business Officer (CBO) to guide the purpose economy. Under the leadership of Hassan “Hahz” Terry, BLKLUV [ORG] was established as a live fundraising donation network. It allows individuals to donate and receive Bitcoin Love Cash Money for access to a PPV Discord channel, various services, products, and internal marketing within BLKLUV [ORG], all paid for in Love Cash Money.",
     "author": "Bonnie Green",
     "authorImage": "https://flowbite.s3.amazonaws.com/blocks/marketing-ui/avatars/bonnie-green.png"
   }
